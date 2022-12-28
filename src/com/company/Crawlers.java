@@ -8,7 +8,7 @@ import java.io.*;
 public class Crawlers {
 
     public static void main(String[] args) {
-        args = new String[]{"http://lo-ss23.lordfilms.luxe", "2000", "1"};
+        args = new String[]{"http://go.com", "2", "5"};
 
         int depth = 0;      //текущая глубина
         int numThreads = 0;     //число потоков
